@@ -1,3 +1,3 @@
-# Portfolio
-[Click Here](https://aicirou.github.io/Portfolio) to see website
+# CV
+[Click Here](https://aicirou.github.io/CV) to see website
 
