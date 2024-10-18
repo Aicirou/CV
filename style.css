@@ -21,4 +21,5 @@ div > iframe {
   border: none;
   overflow: hidden;
   z-index: 999999;
+  transform: scale(1);
 }
